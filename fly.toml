@@ -1,0 +1,9 @@
+app = "hellobot"  # اختر اسمًا مناسبًا للبوت الخاص بك
+
+[build]
+  dockerfile = "Dockerfile"  # تأكد أن هذا هو المسار الصحيح للـ Dockerfile
+
+[env]
+  API_ID = "14517234"  # API_ID الخاص بك
+  API_HASH = "f72e8404a1842f443db36a4ea0c281db"  # API_HASH الخاص بك
+  BOT_TOKEN = "7626331564:AAFd_lfdvfZfHAVUGU19iDYH5zgV5lAkMGM"  # توكن البوت
