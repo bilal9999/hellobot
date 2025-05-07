@@ -1,4 +1,4 @@
-app = "hellobot"  # اختر اسمًا مناسبًا للبوت الخاص بك
+app = "dsgsesd"  # اختر اسمًا مناسبًا للبوت الخاص بك
 
 [build]
   dockerfile = "Dockerfile"  # تأكد أن هذا هو المسار الصحيح للـ Dockerfile
